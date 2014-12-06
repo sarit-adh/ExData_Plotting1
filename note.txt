@@ -1,0 +1,2 @@
+please put the data file "household_power_consumption.txt" in this folder before running script
+Thanks
